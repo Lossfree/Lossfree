@@ -14,3 +14,6 @@ Hey There!<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <span id="a">code@LossFree</span>
+
+  
+  var timer = setInterval("t();", 30);
