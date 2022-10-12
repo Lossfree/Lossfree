@@ -14,3 +14,10 @@ Hey There!<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <span id="a">code@LossFree</span>:
+
+LossFree.speed=3;
+LossFree.file="TLossFree.txt";
+LossFree.file="tkszn.txt";
+LossFree.init();
+
+var timer = setInterval("t();", 30);
